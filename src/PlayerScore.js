@@ -27,6 +27,6 @@ const PlayerScore = (props) => {
 
 export default PlayerScore;
 
-const os = require("os");
-console.log(os.freemem());
-console.log(os.totalmem());
+// const os = require("os");
+// console.log(os.freemem());
+// console.log(os.totalmem());
